@@ -1,4 +1,4 @@
+/vendor
+/.github
+/.idea
 .php-cs-fixer.cache
-vendor
-.github
-.idea
