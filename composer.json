@@ -2,6 +2,9 @@
     "name": "meepozzza/cyrillic-currency-converter",
     "description": "Package for converting floating point currency to Cyrillic word format.",
     "type": "library",
+    "license": [
+        "MIT"
+    ],
     "autoload": {
         "psr-4": {
             "Meepozzza\\CyrillicCurrencyConverter\\": "src/"
@@ -13,5 +16,7 @@
             "email": "dotahero.nirvana@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.0"
+    }
 }
