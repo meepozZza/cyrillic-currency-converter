@@ -3,7 +3,6 @@ currency-converter-php
 
 [![Latest Stable Version](https://poser.pugx.org/meepozzza/cyrillic-currency-converter/v/stable.png)](https://packagist.org/packages/meepozzza/cyrillic-currency-converter)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/meepozzza/cyrillic-currency-converter/badges/quality-score.png?s=c4d93ce5c60894c09d2b4f7b1ec97d6956c9b23f)](https://scrutinizer-ci.com/g/meepozzza/cyrillic-currency-converter/)
-[![Code Coverage](https://scrutinizer-ci.com/g/meepozzza/cyrillic-currency-converter/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/meepozzza/cyrillic-currency-converter/?branch=main)
 
 Basic converter of floating point numbers to Cyrillic sentences. Rubles and kopecks are supported.
 
